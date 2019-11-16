@@ -1,0 +1,50 @@
+<items>
+    <item>
+        <category>Автомобильные шины</category>
+        <vendor>Белшина</vendor>
+        <model>AstartA SUV BEL-402 215/60R17 96H</model>
+        <article/>
+        <id>1450961001</id>
+        <price>130.96</price>
+        <currency>BYN</currency>
+        <comment>Мы предлагаем ….</comment>
+        <warranty>60</warranty>
+        <stockStatus>in_stock</stockStatus>
+    </item>
+    <item>
+        <category>Автомобильные шины</category>
+        <vendor>Белшина</vendor>
+        <model>AstartA SUV BEL-402 215/60R17 96H2</model>
+        <article/>
+        <id>14509610012</id>
+        <price>130.962</price>
+        <currency>BYN</currency>
+        <comment>Мы предлагаем ….</comment>
+        <warranty>60</warranty>
+        <stockStatus>in_stock</stockStatus>
+    </item>
+    <item>
+        <category>Автомобильные шины</category>
+        <vendor>Белшина</vendor>
+        <model>AstartA SUV BEL-402 215/60R17 96H3</model>
+        <article/>
+        <id>14509610013</id>
+        <price>130.963</price>
+        <currency>BYN</currency>
+        <comment>Мы предлагаем ….</comment>
+        <warranty>60</warranty>
+        <stockStatus>in_stock</stockStatus>
+    </item>
+    <item>
+        <category>Автомобильные шины</category>
+        <vendor>Белшина</vendor>
+        <model>AstartA SUV BEL-402 215/60R17 96H4</model>
+        <article/>
+        <id>14509610014</id>
+        <price>130.964</price>
+        <currency>BYN</currency>
+        <comment>Мы предлагаем ….</comment>
+        <warranty>60</warranty>
+        <stockStatus>in_stock</stockStatus>
+    </item>
+</items>
