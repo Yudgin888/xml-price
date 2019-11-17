@@ -18,7 +18,7 @@ if (count($price) > 0):?>
                 <td><?= $i++ ?></td>
                 <td><?= $item['vendor'] ?></td>
                 <td><?= $item['product'] ?></td>
-                <td><?= $item['price'] ?> <?= $item['currency'] ?></td>
+                <td><?= round($item['price'], 2) ?> <?= $item['currency'] ?></td>
             </tr>
         <?php endforeach; ?>
     </table>

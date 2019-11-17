@@ -1,4 +1,5 @@
 <?php
+error_reporting(E_ERROR);
 require_once 'config.php';
 require_once 'DB_MySql.php';
 
